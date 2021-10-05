@@ -1,1 +1,1 @@
-# RNMovieReviewer
+# MovieExplorerRN
